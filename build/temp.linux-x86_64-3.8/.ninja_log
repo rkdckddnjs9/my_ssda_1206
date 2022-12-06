@@ -1,0 +1,27 @@
+# ninja log v5
+0	3148	1670077672829735267	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_kernel.o	f006343e657d7a4
+0	9001	1670077678685954967	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_cpu.o	ecd3cd33f525f0cd
+0	9821	1670077679505985716	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms.o	90c65b614b719f0c
+0	13152	1670077682834110478	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/iou3d_nms/src/iou3d_nms_api.o	77195de881170d35
+0	1064	1670077684250163543	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d_kernel.o	f45cc8dc679738b0
+0	12158	1670077695342578857	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/roiaware_pool3d/src/roiaware_pool3d.o	582472ea443d926e
+0	812	1670077696470621058	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d_kernel.o	4902c45d86629fc0
+0	12129	1670077707791044185	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/roipoint_pool3d/src/roipoint_pool3d.o	59e1be8113366128
+0	5470	1670077713587260581	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query.o	7f8c313854fdff1
+1	5946	1670077714063278345	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate.o	924c2c8713e94509
+1	6033	1670077714147281481	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling.o	304439a7cfd856e2
+0	6060	1670077714175282525	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points.o	73ba28844a0e6913
+0	14924	1670077723039613115	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/pointnet2_api.o	64327d05f00432e6
+0	20872	1670077728987834733	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/group_points_gpu.o	5aed2eb2e12580de
+0	21048	1670077729163841288	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/ball_query_gpu.o	f9576278ec0ec8d1
+1	21185	1670077729299846352	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/interpolate_gpu.o	b08c2b4c909b95b0
+1	21688	1670077729803865122	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_stack/src/sampling_gpu.o	b2fe20c00ae3e248
+1	4847	1670077735012059008	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling.o	4561b86594c720ea
+1	4907	1670077735072061240	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate.o	f6174f07b1f85bf7
+1	4950	1670077735112062729	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query.o	1eb8fff6ff620d5f
+1	4999	1670077735164064665	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points.o	91770256c67b2dac
+0	14553	1670077744712419776	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/pointnet2_api.o	40adcaa9a04eedec
+1	20190	1670077750352629337	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/interpolate_gpu.o	a1ecca8ff89d9396
+1	20444	1670077750604638697	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/group_points_gpu.o	e35078d6712a0862
+1	20724	1670077750884649096	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/ball_query_gpu.o	d29e5959eb053933
+2	21607	1670077751768681927	/home/changwon/detection_task/SSOD/kakao/my_ssda_centerpoint_for_ssl/build/temp.linux-x86_64-3.8/pcdet/ops/pointnet2/pointnet2_batch/src/sampling_gpu.o	4210b6f69756b441
